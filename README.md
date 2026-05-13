@@ -1,10 +1,10 @@
-<h1>HI I'M RAHUL SINGH</h1>
+<h1>HI I'M KARTIKAY KUMAR</h1>
 
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">A Passionate Business Analyst</h3>
 
 <img align="right" alt="Coding" width="400"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🔭 I’m currently working on **backend development**
+- 🔭 I’m currently working on **A**
 
 - 🌱 I’m currently learning **MERN**
 
