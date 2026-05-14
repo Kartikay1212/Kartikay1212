@@ -11,12 +11,12 @@
 - 👯 I’m looking to collaborate on **projects**
 
 
-- 📫 How to reach me **rs9462784650@gmail.com**
+- 📫 How to reach me **kartikay.work02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rahul-s-6949a8228" target="blank"><img align="center" src="icons8-linkedin-circled-96.svg" alt="www.linkedin.com/in/rahul-s-6949a8228" height="30" width="40" /></a>
-<!-- <a href="https://www.instagram.com/rahulsingh__0408" target="blank"><img align="center" src="icons8-instagram.svg" alt="rahulsingh__0408@" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/kartikayk/" target="blank"><img align="center" src="icons8-linkedin-circled-96.svg" alt="https://www.linkedin.com/in/kartikayk/" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/kkaartikay" target="blank"><img align="center" src="icons8-instagram.svg" alt="kkaartikay@" height="30" width="40" /></a> -->
 </p>
 
 
