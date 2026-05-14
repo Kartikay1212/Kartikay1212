@@ -15,8 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kartikayk/" target="blank"><img align="center" src="icons8-linkedin-circled-96.svg" alt="https://www.linkedin.com/in/kartikayk/" height="30" width="40" /></a>
-<!-- <a href="https://www.instagram.com/kkaartikay" target="blank"><img align="center" src="icons8-instagram.svg" alt="kkaartikay@" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/kartikayk/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 
@@ -41,8 +42,8 @@
   </a>
 
   <!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="powerbi" width="40" height="40"/>
-</a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="powerbi" height="30"/>
+  </a>
 
 </p>
